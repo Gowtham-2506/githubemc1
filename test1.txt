@@ -1,1 +1,2 @@
 Creating file test1.txt
+Sample text
